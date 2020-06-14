@@ -50,3 +50,8 @@ C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 07\LojaVirtual\LojaVirtual\obj\
 C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\LojaVirtual.csproj.CoreCompileInputs.cache
 C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
 C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.cshtml.g.cs
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Views\Home\CadastroCliente.cshtml.g.cs
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Views\Home\CarrinhoCompras.cshtml.g.cs

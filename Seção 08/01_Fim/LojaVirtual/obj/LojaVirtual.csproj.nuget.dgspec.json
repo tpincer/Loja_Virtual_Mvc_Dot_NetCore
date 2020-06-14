@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Loja_Virtual_Mvc_Dot_NetCore\\Seção 07\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj": {}
+    "C:\\Projetos\\Loja_Virtual_Mvc_Dot_NetCore\\Seção 08\\01_Fim\\LojaVirtual\\LojaVirtual.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Loja_Virtual_Mvc_Dot_NetCore\\Seção 07\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj": {
+    "C:\\Projetos\\Loja_Virtual_Mvc_Dot_NetCore\\Seção 08\\01_Fim\\LojaVirtual\\LojaVirtual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Loja_Virtual_Mvc_Dot_NetCore\\Seção 07\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+        "projectUniqueName": "C:\\Projetos\\Loja_Virtual_Mvc_Dot_NetCore\\Seção 08\\01_Fim\\LojaVirtual\\LojaVirtual.csproj",
         "projectName": "LojaVirtual",
-        "projectPath": "C:\\Projetos\\Loja_Virtual_Mvc_Dot_NetCore\\Seção 07\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+        "projectPath": "C:\\Projetos\\Loja_Virtual_Mvc_Dot_NetCore\\Seção 08\\01_Fim\\LojaVirtual\\LojaVirtual.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Loja_Virtual_Mvc_Dot_NetCore\\Seção 07\\LojaVirtual\\LojaVirtual\\obj\\",
+        "outputPath": "C:\\Projetos\\Loja_Virtual_Mvc_Dot_NetCore\\Seção 08\\01_Fim\\LojaVirtual\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
             }
           },
           "imports": [
