@@ -89,3 +89,5 @@ C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 08\01_Fim\LojaVirtual\obj\Debug
 C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 08\01_Fim\LojaVirtual\obj\Debug\netcoreapp2.2\LojaVirtual.pdb
 C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 08\01_Fim\LojaVirtual\obj\Debug\netcoreapp2.2\LojaVirtual.genruntimeconfig.cache
 C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 08\01_Fim\LojaVirtual\obj\Debug\netcoreapp2.2\LojaVirtual.csproj.CopyComplete
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 08\01_Fim\LojaVirtual\obj\Debug\netcoreapp2.2\LojaVirtual.Libraries.Lang.Mensagem.resources
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 08\01_Fim\LojaVirtual\obj\Debug\netcoreapp2.2\LojaVirtual.csproj.GenerateResource.cache
