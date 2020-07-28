@@ -1,0 +1,10 @@
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 09\02_Inicio\LojaVirtual\obj\Debug\netcoreapp3.0\LojaVirtual.Libraries.Lang.Mensagem.resources
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 09\02_Inicio\LojaVirtual\obj\Debug\netcoreapp3.0\LojaVirtual.csproj.GenerateResource.cache
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 09\02_Inicio\LojaVirtual\obj\Debug\netcoreapp3.0\LojaVirtual.AssemblyInfoInputs.cache
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 09\02_Inicio\LojaVirtual\obj\Debug\netcoreapp3.0\LojaVirtual.AssemblyInfo.cs
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 09\02_Inicio\LojaVirtual\obj\Debug\netcoreapp3.0\LojaVirtual.csproj.CoreCompileInputs.cache
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 09\02_Inicio\LojaVirtual\obj\Debug\netcoreapp3.0\LojaVirtual.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 09\02_Inicio\LojaVirtual\obj\Debug\netcoreapp3.0\LojaVirtual.TagHelpers.input.cache
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 09\02_Inicio\LojaVirtual\obj\Debug\netcoreapp3.0\LojaVirtual.TagHelpers.output.cache
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 09\02_Inicio\LojaVirtual\obj\Debug\netcoreapp3.0\LojaVirtual.dll
+C:\Projetos\Loja_Virtual_Mvc_Dot_NetCore\Seção 09\02_Inicio\LojaVirtual\obj\Debug\netcoreapp3.0\LojaVirtual.pdb
