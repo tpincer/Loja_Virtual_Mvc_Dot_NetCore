@@ -87,7 +87,7 @@ namespace LojaVirtual.Controllers
 
                 
             }
-            catch (Exception e)
+            catch (Exception )
             {
                 ViewData["MSG_E"] = "Opps! Tivemos um erro, tente novamente mais tarde!";
 
