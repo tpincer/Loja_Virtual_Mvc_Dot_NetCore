@@ -104,7 +104,7 @@ using LojaVirtual.Models;
             WriteLiteral("\n                        ");
             EndContext();
             BeginContext(599, 113, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4965c5468f4f4d588bfa6d84e01293f6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "713b27c2736a4f43996edd7ead9d6685", async() => {
                 BeginContext(697, 11, true);
                 WriteLiteral("Cadastre-se");
                 EndContext();
@@ -129,12 +129,12 @@ using LojaVirtual.Models;
             WriteLiteral("\n                        <h4 class=\"card-title mb-4 mt-1\">Entrar</h4>\n                        ");
             EndContext();
             BeginContext(806, 832, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cb300ac73c094d26844b5bda35ac1d89", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da0c561c35744827ae3de3ad67a3ea13", async() => {
                 BeginContext(826, 140, true);
                 WriteLiteral("\n                            <div class=\"form-group\">\n                                <label>E-mail</label>\n                                ");
                 EndContext();
                 BeginContext(966, 77, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "71bfe373aae348fab1801a789463ddb0", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "461019a13e85498d9819878a5b5e9cc8", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -161,7 +161,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 WriteLiteral("\n                            </div>\n                            <div class=\"form-group\">\n                                <a class=\"float-right\" href=\"#\">Esqueceu?</a>\n                                <label>Senha</label>\n                                ");
                 EndContext();
                 BeginContext(1295, 81, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "1bd668ce6cf6487593f4a696ee0959f5", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "8fbc7e2f82db423cb5296213d0c54df6", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
